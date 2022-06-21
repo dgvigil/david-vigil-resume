@@ -63,5 +63,5 @@ I love the world of code, deployment, testing, and I hate blinking lights (aka p
 Kubernetes, Docker, Hashicorp Vagrant, Spinnaker
 
 ### Find me online
-[GitHub](github.com/dgvigil)
-[LinkedIn](linkedin.com/in/dave-vigil) 
+[GitHub](https://github.com/dgvigil)
+[LinkedIn](https://linkedin.com/in/dave-vigil) 
