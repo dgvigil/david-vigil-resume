@@ -34,7 +34,7 @@ I love the world of code, deployment, testing, and I hate blinking lights (aka p
 
 *DevOps Team Lead*
 
-- Built a full CI/CD pipeline using Puppet. Automated a code to test to forge to deployment on a brownfield farm using Gitlab CI and Jenkins.  Spearheaded legacy environment automation by scripting (Bash/Ruby/Python) any repeatable tasks to ensure my team functioned efficiently. Built OpenStack environments using both VIO and Mirantis. Provisioned, automated and maintained 800+ Linux servers and workstations. Built Hadoop Data Platform environments in Docker containers and OpenStack instances. Managed a Kubernetes cluster with GPU support for Deep Learning capability (Nvida DGX and IBM PowerAI). As SAIC Team Lead, ensured team of 15 are on task, tracked performance, and oversaw annual reviews.
+- Built a full CI/CD pipeline using Puppet. Automated a code to test to forge to deployment on a brownfield farm using Gitlab CI and Jenkins.  Spearheaded legacy environment automation by scripting (Bash/Ruby/Python) any repeatable tasks to ensure my team functioned efficiently. Built OpenStack environments using both VIO and Mirantis. Provisioned, automated and maintained 800+ Linux servers and workstations. Built Hadoop Data Platform environments in Docker containers and OpenStack instances. Managed a Kubernetes cluster with GPU support for Deep Learning capability (Nvida DGX and IBM PowerAI). As SAIC Team Lead, ensured team of 15 were on task, tracked performance, and oversaw annual reviews.
 
 **ZeroLag Communications** / May 2012 - May 2015
 
