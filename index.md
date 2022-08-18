@@ -30,7 +30,7 @@ I love the world of code, deployment, testing, and I hate blinking lights (aka p
 
 *Applications Developer*
 
-- Coded, deployed, and maintained internal enterprise Ruby on Rails (v 2.3.4 - 5.0.2) applications. Migrated applications from a VM infrastructure into Docker containers. Created a fully automated CI/CD infrastructure for multiple projects using Gitlab CI.
+- Coded, deployed, and maintained internal enterprise Ruby on Rails applications. Migrated applications from a VM infrastructure into Docker containers. Created a fully automated CI/CD infrastructure for multiple projects using Gitlab CI.
 
 *DevOps Team Lead*
 
@@ -49,9 +49,9 @@ I love the world of code, deployment, testing, and I hate blinking lights (aka p
 - Utilized knowledge in LAMP stack and Windows/IIS web server to migrate websites for customers from competing web hosting companies to HostGator servers with zero downtime. Inspected migrated content for malware. Developed scripts (Bash/Python/Perl) to automate repetitive tasks and correct common configuration  issues.
 
 ### Skills
-*Languages:* Python, Bash, Ruby (Rails), HTML, CSS, PHP
+*Languages:* Python, Bash, Ruby (Rails), HTML/CSS/PHP
 
-*Linux Systems:* RHEL, CentOS, Ubuntu, Debian
+*Linux Systems:* OpenSUSE, RHEL, CentOS, Ubuntu, Debian
 
 *Configuration Management:* Puppet, Chef, Ansible
 
@@ -63,5 +63,5 @@ I love the world of code, deployment, testing, and I hate blinking lights (aka p
 Kubernetes, Docker, Hashicorp Vagrant, RKE2, Spinnaker
 
 ### Find me online
-[GitHub](https://github.com/dgvigil)
+[Github](https://github.com/dgvigil)
 [LinkedIn](https://linkedin.com/in/dave-vigil) 
