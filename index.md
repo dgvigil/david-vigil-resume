@@ -6,11 +6,11 @@ I love the world of code, deployment, testing, and I hate blinking lights (aka p
 
 **SUSE Rancher Government Solutions** / Feb 2021 - Present
 
-*Senior Solutions Architect* Feb 2021 - Feb 2022
+*Senior Solutions Architect* Feb 2022 - Present
 
 - Development of Kubernetes-adjacent software and solutions as part of Platform One: DoD Enterprise DevSecOps Services
 
-*Senior Support Engineer* Feb 2022 - Present
+*Senior Support Engineer* Feb 2021 - Present
 
 - Assist US customers within the federal government with technical issues, troubleshoot, and solve issues that come up within the container orchestration, Rancher MCM, and general Kubernetes space.  Wrote Ansible to provide customers with a configuration management solution to easily build RKE2 clusters (https://github.com/rancherfederal/rke2-ansible). Answered customer-initiated tickets and private customer slack channels. Provide support for all SUSE Rancher products including the Rancher Multi-cluster manager, Longhorn, RKE, RKE2 (RKE Government), and K3s.
 
@@ -46,7 +46,7 @@ I love the world of code, deployment, testing, and I hate blinking lights (aka p
 
 *Linux System Administrator - Migrations Quality Assurance*
 
-- Utilized knowledge in Linux (CentOS/RHEL), Windows/IIS web server, Apache, MySQL, Python, Perl, PHP\HTML\CSS to migrate websites for customers from competing web hosting companies to HostGator servers with zero downtime. Inspected migrated content for malware. Developed scripts (Bash/Python/Perl) to automate repetitive tasks and correct common configuration  issues.
+- Utilized knowledge in LAMP stack and Windows/IIS web server to migrate websites for customers from competing web hosting companies to HostGator servers with zero downtime. Inspected migrated content for malware. Developed scripts (Bash/Python/Perl) to automate repetitive tasks and correct common configuration  issues.
 
 ### Skills
 *Languages:* Python, Bash, Ruby (Rails), HTML, CSS, PHP
@@ -60,7 +60,7 @@ I love the world of code, deployment, testing, and I hate blinking lights (aka p
 *Automation/Build tools:* Jenkins, Docker, Puppet, Artifiactory, Vagrant, GitLab CI
 
 ### Open Source Contributions
-Kubernetes, Docker, Hashicorp Vagrant, Spinnaker
+Kubernetes, Docker, Hashicorp Vagrant, RKE2, Spinnaker
 
 ### Find me online
 [GitHub](https://github.com/dgvigil)
