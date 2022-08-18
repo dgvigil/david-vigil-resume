@@ -6,11 +6,11 @@ I love the world of code, deployment, testing, and I hate blinking lights (aka p
 
 **SUSE Rancher Government Solutions** / Feb 2021 - Present
 
-*Senior Solutions Architect* Feb 2022 - Present
+*Senior Solutions Architect* <sup><sub>Feb 2022 - Present</sub></sup>
 
 - Development of Kubernetes-adjacent software and solutions as part of Platform One: DoD Enterprise DevSecOps Services
 
-*Senior Support Engineer* Feb 2021 - Present
+*Senior Support Engineer* <sup><sub>Feb 2021 - Feb 2022</sub></sup>
 
 - Assist US customers within the federal government with technical issues, troubleshoot, and solve issues that come up within the container orchestration, Rancher MCM, and general Kubernetes space.  Wrote Ansible to provide customers with a configuration management solution to easily build RKE2 clusters (https://github.com/rancherfederal/rke2-ansible). Answered customer-initiated tickets and private customer slack channels. Provide support for all SUSE Rancher products including the Rancher Multi-cluster manager, Longhorn, RKE, RKE2 (RKE Government), and K3s.
 
