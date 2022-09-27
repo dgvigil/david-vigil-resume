@@ -1,6 +1,6 @@
 # David "Dave" Vigil (he/him)
 
-I love the world of code, deployment, testing, and I hate blinking lights (aka physical hardware). I came up as a Linux Admin that found every opportunity I could to codify everything my team and I were doing. I am passionate about easily deployable, elegant, easy-to-read code.
+Versatile DevOps Engineer with years of hands-on experience. Proven ability to automate and optimize goal-based Kubernetes and Docker deployments for complicated infrastructure in both private and government organizations. Implemented solutions via Kubernetes, AWS (AWSGov), and GCP to automate application deployments/operations with full CI/CD pipelines.
 
 ### Experience
 
@@ -8,7 +8,7 @@ I love the world of code, deployment, testing, and I hate blinking lights (aka p
 
 *Senior Solutions Architect* <sup><sub>Feb 2022 - Present</sub></sup>
 
-- Development of Kubernetes-adjacent software and solutions as part of Platform One: DoD Enterprise DevSecOps Services
+- Providing Rancher, Kubernetes and other CNCF and open source software and consulting solutions to federal entities that are looking to adapt and transform to devsecops, gitops and other modern workflows
 
 *Senior Support Engineer* <sup><sub>Feb 2021 - Feb 2022</sub></sup>
 
@@ -24,38 +24,34 @@ I love the world of code, deployment, testing, and I hate blinking lights (aka p
 
 *Senior DevOps Engineer*
 
-- Lead a DevOps team that successfully migrated a monolithic Java codebase to a collection of microservices.  This environment tested on Google Cloud Build then, using Spinnaker, deployed on multiple clusters on Google Kubernetes Engine. This fully automated CI/CD pipeline was initiated from a developer commit and ends in full deployments on Dev and Stage clusters with zero human intervention.  Managed the development of Helm charts that maintained the infrastructure-as-code deployments for microservices to Kubernetes.  Developed and managed processes for day two maintenance of the current infrastructure consisting of over 500 Ubuntu servers across five data centers distributed around the world.
+- Lead a DevOps team that migrated a monolithic codebase to microservices deployed on multiple clusters on Google Kubernetes Engine. This fully automated CI/CD pipeline was initiated from a developer commit and ends in full deployments on clusters. Managed the development of Helm charts that maintained the infrastructure-as-code deployments for microservices to Kubernetes. Developed and managed processes for day two maintenance of the current infrastructure consisting of over 500 Ubuntu servers across five data centers distributed around the world.
 
 **Science Applications International Corporation** / May 2015 - May 2018
 
-*Applications Developer*
+*Applications Developer \ DevOps Team Lead*
 
-- Coded, deployed, and maintained internal enterprise Ruby on Rails applications. Migrated applications from a VM infrastructure into Docker containers. Created a fully automated CI/CD infrastructure for multiple projects using Gitlab CI.
-
-*DevOps Team Lead*
-
-- Built a full CI/CD pipeline using Puppet. Automated a code to test to forge to deployment on a brownfield farm using Gitlab CI and Jenkins.  Spearheaded legacy environment automation by scripting (Bash/Ruby/Python) any repeatable tasks to ensure my team functioned efficiently. Built OpenStack environments using both VIO and Mirantis. Provisioned, automated and maintained 800+ Linux servers and workstations. Built Hadoop Data Platform environments in Docker containers and OpenStack instances. Managed a Kubernetes cluster with GPU support for Deep Learning capability (Nvida DGX and IBM PowerAI). As SAIC Team Lead, ensured team of 15 were on task, tracked performance, and oversaw annual reviews.
+- Coded, deployed, and maintained internal enterprise Ruby on Rails applications. Migrated applications from a VM infrastructure into Docker containers. Created a fully automated CI/CD infrastructure for multiple projects using Gitlab CI. Built a full CI/CD pipeline using Puppet. Automated everything from git commit to deployment on a brownfield farm using Gitlab CI and Jenkins. Spearheaded legacy environment automation by scripting (Bash/Ruby/Python). Built OpenStack and maintained environments deployed via both VMWARE Integrated OpenStack (VIO) and Mirantis. Provisioned, automated and maintained 800+ Linux servers and workstations. Built Hadoop Data Platform environments in Docker containers and OpenStack instances. Managed multiple Kubernetes clusters with GPU support for Deep Learning capability (Nvida DGX and IBM PowerAI). As SAIC Team Lead, ensured team of 15 were on task, tracked performance, and oversaw annual reviews.
 
 **ZeroLag Communications** / May 2012 - May 2015
 
 *Linux System Administrator / Security Administrator*
 
-- Scripted repeatable tasks to detect and assist with compromised customer servers and remedied security vulnerabilities. Resolved requests/issues escalated by L1 Admins and provided mentoring to the support staff. Assisted customers via ticket system/phone/chat, led the Quality Assurance group for client response. Monitored servers (Icinga/Munin) and oversaw Security and Compliance for internal machines.
+- Automated tasks to detect and assist compromised customer servers and remedied security vulnerabilities. Resolved requests/issues escalated by L1 Admins and provided mentoring to the support staff. Assisted customers via ticket system/phone/chat, led the Quality Assurance group for client response. Monitored servers and oversaw Security and Compliance for internal machines.
 
 **HostGator.com LLC** / Sept 2009 - May 2012
 
-*Linux System Administrator - Migrations Quality Assurance*
+*Linux System Administrator / Migrations Quality Assurance*
 
 - Utilized knowledge in LAMP stack and Windows/IIS web server to migrate websites for customers from competing web hosting companies to HostGator servers with zero downtime. Inspected migrated content for malware. Developed scripts (Bash/Python/Perl) to automate repetitive tasks and correct common configuration  issues.
 
 ### Skills
-*Languages:* Python, Bash, Ruby (Rails), HTML/CSS/PHP
+*Languages:* Python, Bash, Ruby (Rails)
 
 *Linux Systems:* OpenSUSE, RHEL, CentOS, Ubuntu, Debian
 
 *Configuration Management:* Puppet, Chef, Ansible
 
-*Cloud:* IAAS, GCP, Kubernetes, OpenStack, VMWare VIO, Heat, Terraform, Packer, AWS, Mirantis
+*Cloud:* IAAS, IAC, GCP, AWS (GovCloud), Kubernetes (Kubeadm, RKE2, k3s), OpenStack, Terraform, Packer
 
 *Automation/Build tools:* Jenkins, Docker, Puppet, Artifiactory, Vagrant, GitLab CI
 
