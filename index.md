@@ -1,12 +1,19 @@
 # David "Dave" Vigil (he/him)
 
-Versatile DevOps Engineer with years of hands-on experience. Proven ability to automate and optimize goal-based Kubernetes and Docker deployments for complicated infrastructure in both private and government organizations. Implemented solutions via Kubernetes, AWS (AWSGov), and GCP to automate application deployments/operations with full CI/CD pipelines.
+Experienced DevOps Engineer with a demonstrated history of pioneering solutions in IAC (Infrastructure As Code), Kubernetes, and Docker deployments across diverse infrastructures, including sensitive environments within private and governmental sectors. Adept at optimizing CI/CD pipelines to automate application deployments and operations on Kubernetes, AWS (AWSGov), and GCP. Known for a passion for exploring innovative approaches to enhance efficiency and reliability in complex systems.
+
 
 ### Experience
 
-**SUSE Rancher Government Solutions** / Feb 2021 - Present
+***ServiceNow*** / Feb 2023 - Present
+*Systems Engineer*
+- Created CI pipeline in GitLab to automate OS regression tests to allow regular updates to all company hardware SKUs. Turned the 30-day manual process into a 3-day process with testing and minimal human interaction required.
+- Created and maintained various Puppet modules to better manage the many facets of both the Dev and Prod environments. Assisted other teams to better solve issues in an automated and repeatable manner.
 
-*Senior Solutions Architect* <sup><sub>Feb 2022 - Present</sub></sup>
+
+**SUSE Rancher Government Solutions** / Feb 2021 - Feb 2023
+
+*Senior Solutions Architect* <sup><sub>Feb 2022 - Feb 2023</sub></sup>
 
 - Providing Rancher, Kubernetes and other CNCF and open source software and consulting solutions to federal entities that are looking to adapt and transform to devsecops, gitops and other modern workflows
 
@@ -51,7 +58,7 @@ Versatile DevOps Engineer with years of hands-on experience. Proven ability to a
 
 *Configuration Management:* Puppet, Chef, Ansible
 
-*Cloud:* IAAS, IAC, GCP, AWS (GovCloud), Kubernetes (Kubeadm, RKE2, k3s), OpenStack, Terraform, Packer
+*Cloud:* IAAS, IAC, GCP, AWS (GovCloud), Kubernetes (Kubeadm, RKE2, k3s), OpenStack, Terraform, OpenTofu, Packer
 
 *Automation/Build tools:* Jenkins, Docker, Puppet, Artifiactory, Vagrant, GitLab CI
 
